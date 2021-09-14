@@ -25,7 +25,7 @@ const Otp = () => {
   return (
     <AuthLayout
       title="OTP Authentication"
-      subtitle="An authentication code has been abc@gmail.com "
+      subtitle="An authentication code has been sent to abc@gmail.com "
       titleContainerStyle={{
         marginTop: SIZES.radius,
       }}
